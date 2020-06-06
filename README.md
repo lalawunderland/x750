@@ -39,7 +39,7 @@ sudo bash x750.sh
 ```
 #7. How to read the battery voltage and percentage?
 ```shell
- sudo phthon x750ups.py
+ sudo  ./x750ups.py
 ```
 
 #About Geekworm
